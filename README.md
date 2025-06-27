@@ -1,4 +1,4 @@
-1)Decision Tree Implementation :
+  1)Decision Tree Implementation :
 This project demonstrates how to implement and visualize a Decision Tree classifier using scikit-learn. We use the popular Breast Cancer dataset from sklearn.datasets to classify tumors as benign or malignant.
 
 2) Features :
